@@ -4,7 +4,7 @@
   "description": "",
   "main": "one.js",
   "scripts": {
-    "start": "one.js"
+    "start": "node one.js"
   },
   "repository": {
     "type": "git",
