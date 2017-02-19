@@ -1,0 +1,19 @@
+{
+  "name": "alaa-node-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "one.js",
+  "scripts": {
+    "start": "one.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alaa-Khattab/alaa-node-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alaa-Khattab/alaa-node-example/issues"
+  },
+  "homepage": "https://github.com/Alaa-Khattab/alaa-node-example#readme"
+}

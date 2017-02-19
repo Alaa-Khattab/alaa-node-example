@@ -5,6 +5,6 @@ http.createServer(function(req, res) {
     	res.end("HELLO ALAA AT GSG");
 
     
-}).listen(process.evn.PORT, function() {
+}).listen(process.env.PORT || 8080, function() {
     console.log('Listening on 8080');
 });
